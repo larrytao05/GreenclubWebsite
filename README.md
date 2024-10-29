@@ -3,8 +3,11 @@
 ## Home Page
 ### Page Requirements
 - vertically scrollable
-- basic summary of mission & core values
+- basic summary of mission & core values  
 - link to other important pages (each page gets its own vert. scroll section)
+  - first is projects, have short video / photo and blurb section explaining projects, accompanied with link to projects page
+  - similar format for "Meet the Team" section
+  - Again, similar section with something like "Interested? Join Here" or whatever, link to Join page
 ## Team Page
 ### Page Requirements
 - vertically scrollable
